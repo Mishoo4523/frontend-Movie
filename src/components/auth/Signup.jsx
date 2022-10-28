@@ -77,7 +77,7 @@ export default function Signup() {
             value={name}
             onChange={handleChange}
             label="Name"
-            placeholder="John Doe"
+            placeholder="Ahmad"
             name="name"
           />
           <FormInput
